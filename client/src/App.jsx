@@ -10,23 +10,10 @@ function App() {
 
   return (
     <>
-
-
-<Router>
-      <Navbar />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/menu" element={<Menu />} />
-      </Routes>
-    </Router>
-
-
-
-
-
-
-
-
+     
+      <h1>Bite It 😋😋🍴</h1>
+      
+      
     </>
   )
 }
